@@ -1,0 +1,40 @@
+h1 {
+    text-align: center;
+    font-size: 20px;
+    font-weight: 300;
+    color: #222;
+    margin-bottom: 5px;
+}
+
+ div {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  margin-top: auto;
+  height: auto;
+  width: 500px;
+  
+}
+
+ul li {
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-top: auto;
+}
+
+body {
+    background-color: lightblue;
+     
+}
+
+p {
+    color: aquamarine;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+

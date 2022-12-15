@@ -1,0 +1,49 @@
+h1 {
+    color: yellowgreen;
+    font-size: 75px;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+img {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  margin-top: auto;
+  height: auto;
+  width: 300px;
+  
+    
+}
+
+div {
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: auto;
+    height: auto;
+}
+
+   li {
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-top: auto;
+}
+
+h2 {
+    color: rgba(red, green, blue, alpha);
+    font-size: 45px;
+}
+
+p {
+    color: pink;
+    font-size: 25px;
+}
