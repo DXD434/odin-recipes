@@ -6,15 +6,15 @@ h1 {
     margin-bottom: 5px;
 }
 
- div {
-    display: block;
+ img {
+  display: block;
   margin-left: auto;
   margin-right: auto;
   text-align: center;
   margin-top: auto;
   height: auto;
-  width: 500px;
-  
+  width: auto;
+  display: flexbox;
 }
 
 ul li {
@@ -31,10 +31,6 @@ body {
      
 }
 
-p {
-    color: aquamarine;
-    font-size: 20px;
-    font-weight: bold;
 
-}
+
 

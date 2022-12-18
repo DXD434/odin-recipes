@@ -29,7 +29,7 @@ div {
     height: auto;
 }
 
-   li {
+   ul li {
     text-align: center;
     display: block;
     margin-left: auto;
@@ -39,11 +39,11 @@ div {
 }
 
 h2 {
-    color: rgba(red, green, blue, alpha);
+    color: red;
     font-size: 45px;
 }
 
 p {
-    color: pink;
+    color: blueviolet;
     font-size: 25px;
 }
